@@ -1,3 +1,14 @@
-﻿  1.c
-  Title2.vcxproj -> D:\C&C++\C_C++File\Class5\Title2\Debug\Title2.exe
-  Title2.vcxproj -> D:\C&C++\C_C++File\Class5\Title2\Debug\Title2.pdb (Full PDB)
+﻿生成启动时间为 2021/2/21 11:09:45。
+     1>项目“D:\C-C-Exercise\C_C++File\Class5\Title2\Title2\Title2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt 1.c
+         1.c
+     1>d:\c-c-exercise\c_c++file\class5\title2\title2\1.c(18): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+       Link:
+         D:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C-C-Exercise\C_C++File\Class5\Title2\Debug\Title2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\C-C-Exercise\C_C++File\Class5\Title2\Debug\Title2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C-C-Exercise\C_C++File\Class5\Title2\Debug\Title2.lib" /MACHINE:X86 Debug\1.obj
+         Title2.vcxproj -> D:\C-C-Exercise\C_C++File\Class5\Title2\Debug\Title2.exe
+     1>已完成生成项目“D:\C-C-Exercise\C_C++File\Class5\Title2\Title2\Title2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.64
