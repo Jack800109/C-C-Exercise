@@ -24,5 +24,14 @@
     <ClCompile Include="Practice03.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Practice04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
