@@ -18,5 +18,23 @@
     <ClCompile Include="Practice01.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="exercises01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises06.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
